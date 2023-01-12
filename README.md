@@ -53,7 +53,7 @@ npx create-react-app@latest myApp
 npm install normalize.css
 ```
 
-- import 'normalize.css' in index.js
+- import 'normalize.css' in index.js  
 - SET BEFORE 'index.css'
 - replace contents of index.css
 - if any questions about normalize or specific styles
