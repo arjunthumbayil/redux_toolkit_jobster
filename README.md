@@ -402,8 +402,6 @@ return (
 
 #### 20) Handle Change and Empty Values
 
-[Dynamic Object Keys](https://youtu.be/_qxCYtWm0tw)
-
 Register.js
 
 ```js
@@ -1089,7 +1087,6 @@ Navbar.js
 
 ```js
 import { toggleSidebar, logoutUser } from '../features/user/userSlice'
-
 ;<div className={showLogout ? 'dropdown show-dropdown' : 'dropdown'}>
   <button
     type="button"
@@ -2138,8 +2135,6 @@ const JobsContainer = () => {
 export default JobsContainer
 ```
 
-[CSS Only Loading Spinner](https://youtu.be/DqqZEpctZ8w)
-
 Loading.js
 
 ```js
@@ -2413,7 +2408,6 @@ Job.js
 
 ```js
 import { setEditJob, deleteJob } from '../features/job/jobSlice'
-
 ;<Link
   to="/add-job"
   className="btn edit-btn"
@@ -3098,8 +3092,6 @@ return (
 ```
 
 #### 85) PageBtnContainer Structure
-
-[JS Nuggets - Array.from()](https://youtu.be/zg1Bv4xubwo)
 
 ```js
 import { HiChevronDoubleLeft, HiChevronDoubleRight } from 'react-icons/hi'
